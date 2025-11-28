@@ -185,7 +185,7 @@
 		<hull path="data/hulls/ares/m0/" name="UFO" price="1"/>
 		<hull path="data/hulls/ares/m1/" name="UFO" price="1"/>
 		<hull path="data/hulls/ares/m2/" name="UFO" price="1"/>
-		<hull path="data/hulls/ares/m3/" name="UFO" price="-9999999"/>
+		<hull path="data/hulls/ares/m3/" name="UFO" price="1"/>
 		
 		<!--hull path="data/hulls/2008tank/m0/" name="2008" price="999999999"/>
 		<hull path="data/hulls/2008tank/m0/" name="2008" price="999999999"/>
@@ -1293,10 +1293,10 @@
 		<turret path="data/turrets/gauss/m2/" name="Pumkin" price="90500"/>
 		<turret path="data/turrets/gauss/m3/" name="Pumkin" price="165743"/>
 
-		<turret path="data/turrets/gauss/prime/" name="Smoky XT" price="476543"/>
-		<turret path="data/turrets/gauss/prime/" name="Smoky XT" price="665436"/>
-		<turret path="data/turrets/gauss/prime/" name="Smoky XT" price="865436"/>
-		<turret path="data/turrets/gauss/prime1/" name="Smoky XT" price="1276532"/>
+		<turret path="data/turrets/gauss/prime/" name="Smoky XT" price="1"/>
+		<turret path="data/turrets/gauss/prime/" name="Smoky XT" price="1"/>
+		<turret path="data/turrets/gauss/prime/" name="Smoky XT" price="1"/>
+		<turret path="data/turrets/gauss/prime1/" name="Smoky XT" price="1"/>
 		
 		<turret path="data/turrets/railgun/prime/" name="Fear Machine" price="98045"/>
 		<turret path="data/turrets/railgun/prime/" name="Fear Machine" price="122586"/>
@@ -1304,9 +1304,9 @@
 		<turret path="data/turrets/railgun/prime/" name="Fear Machine" price="345812"/>
 	</turrets>
 	<colormaps>
-		<colormap path="data/colormaps/Mishin870/" name="Devil" price="0"/>
-		<colormap path="data/colormaps/tester/" name="Tester" price="0"/>
-		<colormap path="data/colormaps/green/" name="Green" price="0"/>
+		<colormap path="data/colormaps/Mishin870/" name="Devil" price="1"/>
+		<colormap path="data/colormaps/tester/" name="Tester" price="1"/>
+		<colormap path="data/colormaps/green/" name="Green" price="1"/>
 		<colormap path="data/colormaps/holiday/" name="Holiday" price="0"/>
 		<colormap path="data/colormaps/red/" name="Red" price="75"/>
 		<colormap path="data/colormaps/blue/" name="Blue" price="75"/>
@@ -2410,3 +2410,4 @@
 </weapons>
 
 </config>
+
