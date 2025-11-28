@@ -177,15 +177,15 @@
 		<hull path="data/hulls/mamont/m3/" name="Mammoth " price="183150"/>
 
 
-		<hull path="data/hulls/jugger/m0/" name="Hornet Prototype" price="95000"/>
-		<hull path="data/hulls/jugger/m1/" name="Hornet Prototype" price="142000"/>
-		<hull path="data/hulls/jugger/m2/" name="Hornet Prototype" price="264000"/>
-		<hull path="data/hulls/jugger/m3/" name="Hornet Prototype" price="800355"/>
+		<hull path="data/hulls/jugger/m0/" name="Hornet Prototype" price="1"/>
+		<hull path="data/hulls/jugger/m1/" name="Hornet Prototype" price="1"/>
+		<hull path="data/hulls/jugger/m2/" name="Hornet Prototype" price="1"/>
+		<hull path="data/hulls/jugger/m3/" name="Hornet Prototype" price="1"/>
 
-		<hull path="data/hulls/ares/m0/" name="UFO" price="1000"/>
-		<hull path="data/hulls/ares/m1/" name="UFO" price="6075"/>
-		<hull path="data/hulls/ares/m2/" name="UFO" price="10430"/>
-		<hull path="data/hulls/ares/m3/" name="UFO" price="34000"/>
+		<hull path="data/hulls/ares/m0/" name="UFO" price="1"/>
+		<hull path="data/hulls/ares/m1/" name="UFO" price="1"/>
+		<hull path="data/hulls/ares/m2/" name="UFO" price="1"/>
+		<hull path="data/hulls/ares/m3/" name="UFO" price="-9999999"/>
 		
 		<!--hull path="data/hulls/2008tank/m0/" name="2008" price="999999999"/>
 		<hull path="data/hulls/2008tank/m0/" name="2008" price="999999999"/>
@@ -2408,4 +2408,5 @@
 </profile>
 </isida>
 </weapons>
+
 </config>
